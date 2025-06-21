@@ -6,6 +6,6 @@ ac130_controller    = {name= 'ac130_controller', label= 'AC-130 Controller', wei
 
 
 
-jOIN THE DISCORD WHERE I RELEASE MORE PAID / FREE SCRIPTS AND MLOS  
+JOIN THE DISCORD WHERE I RELEASE MORE PAID / FREE SCRIPTS AND MLOS  
 
 https://discord.gg/G5Pm8NnyR8
